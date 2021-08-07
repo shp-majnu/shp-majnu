@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shp-majnu [nicjname] 
 - 👀 I’m interested in ...lot of things Linux is one of them
-- 🌱 I’m currently learning ...CyberSecurity
+- 🌱 I’m currently learning ...Information Security
 - 💞️ I’m looking to collaborate on ...[none for now]
 - 📫 How to reach me ... shp.hp@yahoo.com
 
